@@ -51,7 +51,7 @@ The workflow is composed of the following components:
 #### Tool: Google Calendar
 - Uses the Google Calendar tool within n8n
 - Automatically creates events in Google Calendar once details are extracted
-- Ensures the API key used by the agent matches the Google Calendar account credentials
+- Have to ensure that the API key used by the agent matches the Google Calendar account credentials
 - Confirms successful event creation back to the user
 
 ## Example Interaction
