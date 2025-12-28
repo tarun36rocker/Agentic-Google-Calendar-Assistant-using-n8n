@@ -54,6 +54,10 @@ The workflow is composed of the following components:
 - Have to ensure that the API key used by the agent matches the Google Calendar account credentials
 - Confirms successful event creation back to the user
 
+These images show the configuration setup used in the Google Calender tool.
+![Tool1](pic/tool1.png)
+![Tool2](pic/tool2.png)
+
 ## Example Interaction
 
 The image below shows an example chat interaction where the agent understands a natural language request and creates a Google Calendar event.
