@@ -60,3 +60,6 @@ The image below shows an example chat interaction where the agent understands a 
 
 ![Agent Chat Example](pic/chat.png)
 
+The result obtained from this simple, yet effective project is shown below.
+![Google Calender Result](pic/result.png)
+
